@@ -2,17 +2,20 @@
 Hey there I'm Dav !
 
 ### Knowledge 📚
-```
-C#          
-JavaScript  
-PHP         
-Python      
-Dart        
-Laravel     
-React       
-Flutter     
-Git (duh)   
-Docker      
+```csharp
+// Languages
+C#
+JavaScript
+PHP
+Python
+Dart
+// Frameworks  
+Laravel
+React
+Flutter
+// DevOps
+Git (duh)
+Docker
 ```
 
 <!--
