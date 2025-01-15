@@ -2,21 +2,9 @@
 Hey there I'm Dav !
 
 ### Knowledge 📚
-```csharp
-// Languages
-C#
-JavaScript
-PHP
-Python
-Dart
-// Frameworks  
-Laravel
-React
-Flutter
-// DevOps
-Git (duh)
-Docker
-```
+[![Skills](https://skillicons.dev/icons?i=cs,html,css,js,php,python,scala,mysql)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=laravel,flutter,godot)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=git,docker,bash,powershell)](https://skillicons.dev)
 
 <!--
 **Dav0105/Dav0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
